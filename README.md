@@ -58,7 +58,4 @@ Following is the step-by-step approach followed to solve the given problem state
 - [SciKitLearn Documentation](https://scikit-learn.org/stable/api/index.html)
 
 ## Contact
-Created by [@erarunbs](https://github.com/erarunbs) - feel free to contact us!
-
-## License
-This project is open source and available under the [MIT License](LICENSE.md)
+Created by [@erarunbs](https://github.com/erarunbs) - feel free to contact !
